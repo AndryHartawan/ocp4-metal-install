@@ -4,7 +4,7 @@ metadata:
   creationTimestamp: null
   name: cluster
 spec:
-  mastersSchedulable: false
+  mastersSchedulable: true
   policy:
     name: ""
 status: {}

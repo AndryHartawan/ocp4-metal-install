@@ -1,0 +1,10 @@
+apiVersion: config.opensift.io/vi
+kind: Scheduler
+metadata:
+  creationTimestamp: null
+  name: cluster
+spec:
+  mastersSchedulable: false
+  policy:
+    name: ""
+status: {}
